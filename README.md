@@ -4,7 +4,7 @@ Japanese Property Price analysis with an objective of predicting the japanese se
 
 ## How to
 
-Simply by opening Sumo Match Prediction.ipynb or using [Jupyter Nbviewer](https://nbviewer.jupyter.org/github/ElieSDK/Sumo_Match_Prediction/blob/main/Sumo%20Match%20Prediction.ipynb)　EDIT WEBSITE
+Simply by opening Japanese_Property_Price_Forecasting.ipynb or using [Jupyter Nbviewer](https://nbviewer.org/github/ElieSDK/Japanese_Property_Price_Forecasting/blob/main/Japanese_Property_Price_Forecasting.ipynb)　
 
 ----------------------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Simply by opening Sumo Match Prediction.ipynb or using [Jupyter Nbviewer](https:
 
 ## 方法
 
-大相撲の試合の予測.ipynbか[Jupyter Nbviewer](https://nbviewer.jupyter.org/github/ElieSDK/Sumo_Match_Prediction/blob/main/%E5%A4%A7%E7%9B%B8%E6%92%B2%E3%81%AE%E8%A9%A6%E5%90%88%E3%81%AE%E4%BA%88%E6%B8%AC.ipynb)をクリックをしてください。EDIT WEBSITE
+日本の不動産価格予測.ipynb か[Jupyter Nbviewer](https://nbviewer.org/github/ElieSDK/Japanese_Property_Price_Forecasting/blob/main/%E6%97%A5%E6%9C%AC%E3%81%AE%E4%B8%8D%E5%8B%95%E7%94%A3%E4%BE%A1%E6%A0%BC%E4%BA%88%E6%B8%AC.ipynb)をクリックをしてください。
