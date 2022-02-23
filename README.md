@@ -4,7 +4,7 @@ Japanese Property Price analysis with the objective of predicting the Japanese s
 
 ## How to
 
-Simply by opening Japanese_Property_Price_Forecasting.ipynb or using [Jupyter Nbviewer](https://nbviewer.org/github/ElieSDK/Japanese_Property_Price_Forecasting/blob/main/Japanese_Property_Price_Forecasting.ipynb)　
+By opening Japanese_Property_Price_Forecasting.ipynb or using [Jupyter Nbviewer](https://nbviewer.org/github/ElieSDK/Japanese_Property_Price_Forecasting/blob/main/Japanese_Property_Price_Forecasting.ipynb)　
 
 ----------------------------------------------------------------------------------------
 
