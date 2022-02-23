@@ -1,6 +1,6 @@
 # Japanese Property Price Forecasting
 
-Japanese Property Price analysis with an objective of predicting the japanese second-hand price apartment.
+Japanese Property Price analysis with the objective of predicting the Japanese second-hand apartment price.
 
 ## How to
 
